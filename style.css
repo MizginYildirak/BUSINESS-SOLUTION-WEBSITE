@@ -1510,10 +1510,6 @@ textarea:focus {
 width: 50px;
 }
 
-.pricing {
-  width: 90%;
-}
-
 .pricing-title {
   margin-bottom: 1rem;
 }
@@ -1529,13 +1525,10 @@ width: 50px;
 
 .faqs li {
   height: 100%;
+  width: 100%;
 }
 
-#portfolio {
-  width: 90%;
-}
-
-#contact {
+#portfolio,#contact, .faq-container, .cta, .pricing {
   width: 90%;
 }
 
@@ -1555,10 +1548,6 @@ width: 50px;
 .join {
   text-align: center;
   padding: 10px;
-}
-
-.cta {
-  width: 90%;
 }
 }
 
